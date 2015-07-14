@@ -1,11 +1,11 @@
 # hadoop notes
 
 ## TODO
-[ ] hadoop notes
-[ ] java example
-[ ] python example
-[ ] shell example
-[ ] hce
+- [ ] hadoop notes
+- [ ] java example
+- [ ] python example
+- [ ] shell example
+- [ ] hce
 
 
 ## errors
