@@ -1,5 +1,16 @@
 # hadoop notes
 
+##
+v1 vs v2(yarn)
+
+cat | maper | sort | reduce 
+
+SeqFile
+
+
+## Memory
+
+
 ## TODO
 - [ ] hadoop notes
 - [ ] java example
