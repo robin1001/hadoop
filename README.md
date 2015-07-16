@@ -12,11 +12,9 @@ SeqFile
 
 
 ## TODO
-- [ ] hadoop notes
-- [ ] java example
-- [ ] python example
-- [ ] shell example
-- [ ] hce
+- [x] java example
+- [x] python example
+- [x] shell example
 
 
 ## errors
